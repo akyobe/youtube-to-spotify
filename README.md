@@ -19,9 +19,9 @@ A simple script that takes your liked videos on Youtube, and generates a Spotify
 
 2) Collect You Spotify User ID and Oauth Token From Spotfiy and add it to secrets.py file
     * To Collect your User ID, Log into Spotify then go here: [Account Overview] and its your **Username**
-    ![alt text](images/userid.png)
+    ![alt text](userid.png)
     * To Collect your Oauth Token, Visit this url here: [Get Oauth] and click the **Get Token** button
-    ![alt text](images/spotify_token.png)
+    ![alt text](spotify_token.png)
 
 3) Enable Oauth For Youtube and download the client_secrets.json   
     * Ok this part is tricky but its worth it! Just follow the guide here [Set Up Youtube Oauth] ! 
